@@ -60,12 +60,12 @@ export default function Home() {
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tighter mb-8 leading-[1.1]">
             I'm Yashwanth Reddy Vasireddy. <br className="hidden md:block" />
             <span className="text-3xl md:text-5xl lg:text-6xl text-transparent bg-clip-text bg-gradient-to-r from-gray-200 to-gray-700 mt-2 inline-block">
-              AI & ML, Data Science.
+              AI, ML & Data Science.
             </span>
           </h1>
 
-          <p className="text-lg md:text-xl text-gray-400 max-w-2xl leading-relaxed mb-10">
-            Building enterprise AI agents, complex data insights pipelines, and modern software architectures. I specialize in turning massive datasets into scalable, high-performance web experiences.
+          <p className="text-lg md:text-xl text-gray-400 max-w-2xl leading-relsaxed mb-10">
+            In theory, I architect complex AI systems and distributed data pipelines. In practice, I spend my days convincing massive, messy datasets to cooperate so businesses can actually use them. I love doing the heavy engineering that makes smart software look effortless.
           </p>
 
           {/* THE NEW RESUME BUTTON */}
@@ -75,7 +75,7 @@ export default function Home() {
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            className="inline-flex items-center gap-3 px-8 py-4 bg-white text-black font-semibold rounded-full hover:bg-gray-200 transition-colors duration-300"
+            className="inline-flex items-center gap-3 px-8 py-4 bg-white text-black font-semibold rounded-full hover:bg-gray-400 transition-colors duration-300"
           >
             View Resume
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -117,10 +117,10 @@ export default function Home() {
           <a href="https://github.com/Yashwanth-23" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors duration-300">
             GitHub
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors duration-300">
+          <a href="https://linkedin.com/in/yashwanthreddyv" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors duration-300">
             LinkedIn
           </a>
-          <a href="mailto:contact@example.com" className="hover:text-white transition-colors duration-300">
+          <a href="mailto:vryashwanthreddy@gmail.com" className="hover:text-white transition-colors duration-300">
             Email
           </a>
         </div>
