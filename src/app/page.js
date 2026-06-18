@@ -70,7 +70,7 @@ export default function Home() {
 
           {/* THE NEW RESUME BUTTON */}
           <motion.a
-            href=" https://drive.google.com/file/d/1pJWebimQJCsk85zivoxd8e0b4yZp1Xaj/view?usp=sharing"
+            href=" https://drive.google.com/file/d/1liq96-1banlm9ryEnPRa_LPTU2TkeNg2/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
