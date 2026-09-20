@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Yashwanth Reddy | AI",
-  description: "AI, ML & Data Science",
+  title: "Yashwanth Reddy Vasireddy | AI · Machine Learning · Data Science",
+  description: "Personal portfolio of Yashwanth Reddy Vasireddy. AI, Machine Learning, and Data Science.",
 };
 
 export default function RootLayout({ children }) {
