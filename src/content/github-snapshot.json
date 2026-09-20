@@ -1,0 +1,387 @@
+[
+    {
+        "id":  470726837,
+        "name":  "30-Days-Of-JavaScript",
+        "html_url":  "https://github.com/Yashwanth-23/30-Days-Of-JavaScript",
+        "description":  "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. ",
+        "homepage":  "",
+        "language":  null,
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2022-03-15T12:32:01Z",
+        "updated_at":  "2022-03-16T19:45:10Z",
+        "fork":  true,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  897689802,
+        "name":  "bigdata_cassandra",
+        "html_url":  "https://github.com/Yashwanth-23/bigdata_cassandra",
+        "description":  null,
+        "homepage":  null,
+        "language":  "Jupyter Notebook",
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2024-12-03T04:26:52Z",
+        "updated_at":  "2024-12-03T04:26:56Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  1375375880,
+        "name":  "computer-use",
+        "html_url":  "https://github.com/Yashwanth-23/computer-use",
+        "description":  null,
+        "homepage":  null,
+        "language":  "Python",
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2026-09-19T03:52:10Z",
+        "updated_at":  "2026-09-19T03:52:13Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  756677392,
+        "name":  "DataMining_Prog.Assignment-1",
+        "html_url":  "https://github.com/Yashwanth-23/DataMining_Prog.Assignment-1",
+        "description":  null,
+        "homepage":  null,
+        "language":  "Jupyter Notebook",
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2026-02-18T21:12:16Z",
+        "updated_at":  "2026-02-18T21:14:57Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  388893242,
+        "name":  "datasets",
+        "html_url":  "https://github.com/Yashwanth-23/datasets",
+        "description":  "A collection of datasets of ML problem solving",
+        "homepage":  null,
+        "language":  null,
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2021-06-13T16:00:45Z",
+        "updated_at":  "2021-07-23T18:31:46Z",
+        "fork":  true,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  774699830,
+        "name":  "DM_prog2",
+        "html_url":  "https://github.com/Yashwanth-23/DM_prog2",
+        "description":  null,
+        "homepage":  null,
+        "language":  "Jupyter Notebook",
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2026-02-18T21:20:26Z",
+        "updated_at":  "2026-02-18T21:20:30Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  784517348,
+        "name":  "DM_prog3",
+        "html_url":  "https://github.com/Yashwanth-23/DM_prog3",
+        "description":  "Data Mining Programming Assignment - 3",
+        "homepage":  null,
+        "language":  "Jupyter Notebook",
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2024-04-10T02:15:02Z",
+        "updated_at":  "2026-02-18T21:21:37Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  794386997,
+        "name":  "DM_prog4",
+        "html_url":  "https://github.com/Yashwanth-23/DM_prog4",
+        "description":  null,
+        "homepage":  null,
+        "language":  "Jupyter Notebook",
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2024-05-01T03:22:41Z",
+        "updated_at":  "2026-02-18T21:24:12Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  1355060750,
+        "name":  "FlowBudget",
+        "html_url":  "https://github.com/Yashwanth-23/FlowBudget",
+        "description":  "💸 Liquid glass personal finance ledger \u0026 group trip expense splitter with living aurora aesthetics.",
+        "homepage":  "https://flowbudget-track.vercel.app/",
+        "language":  "TypeScript",
+        "topics":  [
+                       "expense-tracker",
+                       "fintech",
+                       "neon-database",
+                       "neon-postgres",
+                       "neondb",
+                       "nextjs",
+                       "personal-finance",
+                       "prisma-orm",
+                       "recharts",
+                       "tailwind-css",
+                       "tailwindcss",
+                       "typescript"
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2026-09-16T17:11:42Z",
+        "updated_at":  "2026-09-16T17:11:46Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  470722086,
+        "name":  "free-programming-books",
+        "html_url":  "https://github.com/Yashwanth-23/free-programming-books",
+        "description":  ":books: Freely available programming books",
+        "homepage":  "https://ebookfoundation.github.io/free-programming-books/",
+        "language":  null,
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2022-03-16T19:17:30Z",
+        "updated_at":  "2022-03-16T19:45:49Z",
+        "fork":  true,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  1353115306,
+        "name":  "french",
+        "html_url":  "https://github.com/Yashwanth-23/french",
+        "description":  "Learn french in your preferred way",
+        "homepage":  "https://french-ca.vercel.app/",
+        "language":  "TypeScript",
+        "topics":  [
+                       "french",
+                       "french-education",
+                       "french-language",
+                       "french-learning",
+                       "french-speaking"
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2026-09-09T15:32:49Z",
+        "updated_at":  "2026-09-09T15:53:42Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  1281628623,
+        "name":  "jimmy-assistant",
+        "html_url":  "https://github.com/Yashwanth-23/jimmy-assistant",
+        "description":  "Dual-persona voice assistant for Windows. Features AI code generation, system automation, and media control. Powered by Faster-Whisper and pyttsx3.",
+        "homepage":  "",
+        "language":  "Python",
+        "topics":  [
+                       "ai-assistant",
+                       "automation",
+                       "code-generation",
+                       "faster-whisper",
+                       "offline",
+                       "python",
+                       "pyttsx3",
+                       "speech-recognition",
+                       "voice-assistant-ai",
+                       "windows"
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2026-06-26T19:27:26Z",
+        "updated_at":  "2026-06-26T20:00:28Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  412984103,
+        "name":  "NLP",
+        "html_url":  "https://github.com/Yashwanth-23/NLP",
+        "description":  "Free hands-on course with the implementation (in Python) and description of several Natural Language Processing (NLP) algorithms and techniques.",
+        "homepage":  "https://ansegura7.github.io/NLP/",
+        "language":  null,
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2021-08-11T15:35:54Z",
+        "updated_at":  "2021-10-03T05:23:00Z",
+        "fork":  true,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  371958159,
+        "name":  "NumPy-Matplotlib-Pandas",
+        "html_url":  "https://github.com/Yashwanth-23/NumPy-Matplotlib-Pandas",
+        "description":  "This is done for understanding of all the 3 libraries.",
+        "homepage":  "",
+        "language":  "Jupyter Notebook",
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2021-07-04T07:13:01Z",
+        "updated_at":  "2021-07-04T07:13:04Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  1198978684,
+        "name":  "Omnisense",
+        "html_url":  "https://github.com/Yashwanth-23/Omnisense",
+        "description":  "Local multimodal RAG AI assistant where you can chat with PDFs, images, and video using Llama 3.2, fully offline, zero data exposure.",
+        "homepage":  "",
+        "language":  "Python",
+        "topics":  [
+                       "chromadb",
+                       "docker",
+                       "fastapi",
+                       "langchain",
+                       "llm",
+                       "multimodal",
+                       "nlp",
+                       "ollama",
+                       "python",
+                       "rag",
+                       "streamlit"
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2026-08-16T18:15:19Z",
+        "updated_at":  "2026-08-16T18:16:17Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  382683415,
+        "name":  "Pneumonia-detection-using-CNN",
+        "html_url":  "https://github.com/Yashwanth-23/Pneumonia-detection-using-CNN",
+        "description":  "This project is done as part of the Machine Learning subject in our curriculum.",
+        "homepage":  "",
+        "language":  "Jupyter Notebook",
+        "topics":  [
+                       "chest-xray-images",
+                       "cnn",
+                       "cnn-keras",
+                       "deeplearning",
+                       "machine-learning",
+                       "pneumonia",
+                       "pneumonia-classification",
+                       "pneumonia-detection",
+                       "python",
+                       "tensorflow"
+                   ],
+        "stargazers_count":  9,
+        "pushed_at":  "2021-07-17T06:36:25Z",
+        "updated_at":  "2026-05-09T11:02:11Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  1254060126,
+        "name":  "portfolio",
+        "html_url":  "https://github.com/Yashwanth-23/portfolio",
+        "description":  null,
+        "homepage":  "https://vasireddy.dev/",
+        "language":  "JavaScript",
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2026-06-18T22:27:15Z",
+        "updated_at":  "2026-06-18T22:27:19Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  759270189,
+        "name":  "skills-introduction-to-github",
+        "html_url":  "https://github.com/Yashwanth-23/skills-introduction-to-github",
+        "description":  "My clone repository",
+        "homepage":  null,
+        "language":  null,
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2025-12-01T08:39:39Z",
+        "updated_at":  "2024-02-18T05:37:47Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    },
+    {
+        "id":  441079476,
+        "name":  "Yashwanth-23",
+        "html_url":  "https://github.com/Yashwanth-23/Yashwanth-23",
+        "description":  null,
+        "homepage":  null,
+        "language":  null,
+        "topics":  [
+
+                   ],
+        "stargazers_count":  0,
+        "pushed_at":  "2026-09-19T21:39:24Z",
+        "updated_at":  "2026-09-19T21:39:28Z",
+        "fork":  false,
+        "archived":  false,
+        "is_template":  false,
+        "disabled":  false
+    }
+]

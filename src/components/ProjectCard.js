@@ -16,7 +16,7 @@ export default function ProjectCard({ project, index }) {
     return (
         // OUTER WRAPPER: This is your clickable link
         <motion.a
-            href={project.link}
+            href={project.links?.[0]?.url || project.link}
             target="_blank"
             rel="noopener noreferrer"
             onMouseMove={handleMouseMove}
@@ -48,14 +48,16 @@ export default function ProjectCard({ project, index }) {
                 }}
             />
 
-            <div className="absolute inset-0 w-full h-full z-0">
-                <Image
-                    src={project.image}
-                    alt={project.title}
-                    fill
-                    className="object-cover mix-blend-overlay opacity-0 group-hover:opacity-40 transition-opacity duration-700 group-hover:duration-300 ease-out"
-                />
-            </div>
+            {project.image ? (
+                <div className="absolute inset-0 w-full h-full z-0">
+                    <Image
+                        src={project.image}
+                        alt={project.title}
+                        fill
+                        className="object-cover mix-blend-overlay opacity-0 group-hover:opacity-40 transition-opacity duration-700 group-hover:duration-300 ease-out"
+                    />
+                </div>
+            ) : null}
 
             <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent z-10 pointer-events-none" />
 
