@@ -53,18 +53,6 @@ export default async function Home() {
       {/* 5. THE FOOTER (UNTOUCHED PRESERVED DESTINATIONS) */}
       <footer className="max-w-6xl mx-auto mt-32 pt-8 pb-12 border-t border-white/10 flex flex-col md:flex-row items-center justify-between text-zinc-500 text-sm">
         <p>© {new Date().getFullYear()} Yashwanth Reddy Vasireddy. All rights reserved.</p>
-
-        <div className="flex gap-6 mt-6 md:mt-0 font-medium tracking-wide">
-          <a href="https://github.com/Yashwanth-23" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors duration-300">
-            GitHub
-          </a>
-          <a href="https://linkedin.com/in/yashwanthreddyv" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors duration-300">
-            LinkedIn
-          </a>
-          <a href="mailto:vryashwanthreddy@gmail.com" className="hover:text-white transition-colors duration-300">
-            Email
-          </a>
-        </div>
       </footer>
     </main>
   );
