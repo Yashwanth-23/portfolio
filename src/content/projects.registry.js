@@ -47,6 +47,33 @@ export function validateProject(project) {
 
 export const editorialProjects = [
   {
+    id: 6,
+    title: 'FlowBudget: Personal Finance and Group Expense App',
+    stack: 'React • Next.js • TypeScript • Prisma • PostgreSQL',
+    description: 'Full-stack finance app with multi-currency transaction logging, group expense splitting across multiple payers with custom shares, and settlement transfers. 20 Next.js API route handlers with Prisma over PostgreSQL (Neon); deployed on Vercel.',
+    year: '2026',
+    links: [
+      { label: 'Github', url: 'https://github.com/Yashwanth-23/FlowBudget' },
+      { label: 'Live Demo', url: 'https://flowbudget-track.vercel.app/' }
+    ],
+    image: '',
+    placement: 'featured',
+    source: 'editorial'
+  },
+  {
+    id: 7,
+    title: 'Web Automation Agent with Deterministic Replay',
+    stack: 'Python • Playwright • Pydantic • LLM Tool Calling',
+    description: 'LLM-guided browser agent that discovers multi-step workflows on a mock banking app, compiles them into typed Pydantic capability artifacts, and replays them deterministically with zero LLM API calls during replay. Multi-strategy locator fallback chains with human-in-the-loop escalation on risky or irreversible steps.',
+    year: '2026',
+    links: [
+      { label: 'Github', url: 'https://github.com/Yashwanth-23/computer-use' }
+    ],
+    image: '',
+    placement: 'featured',
+    source: 'editorial'
+  },
+  {
     id: 1,
     title: 'Omnisense Local AI Multimodal Agent',
     stack: 'Python • Streamlit • Docker',
